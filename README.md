@@ -17,8 +17,8 @@ The dataset, **diabetes.csv**, contains information from over 250,000 individual
 The analysis involves applying neural network models to understand and predict various health conditions such as BMI and diabetes status from the dataset.
 
 ### Implemented Solutions:
-1. **Perceptron for Diabetes Classification**:
+1. **Perceptron for Diabetes Classification**
 
-2. **Feedforward Neural Network**:
+2. **Feedforward Neural Network**
 
-3. **Deep Neural Network**:
+3. **Deep Neural Network**
